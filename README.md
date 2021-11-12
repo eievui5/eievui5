@@ -1,3 +1,7 @@
+Hi! I work on the Game Boy a lot.
+
+My main project is a Game Boy engine written entirely in assembly, called [VuiBui](https://github.com/GreenAndEievui/vuibui-engine) (Pronounced "Voy-Boy", like my username.)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenAndEievui&layout=compact&theme=tokyonight)
 
 <!--
