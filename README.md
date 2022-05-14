@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenAndEievui&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GreenAndEievui&langs_count=6&layout=compact&theme=tokyonight)
 
 <!--
 **GreenAndEievui/GreenAndEievui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
